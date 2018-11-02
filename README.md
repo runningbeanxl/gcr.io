@@ -1,2 +1,2 @@
 # gcr.io
-google k8s image
+google k8s image.
